@@ -5,11 +5,13 @@ My projects for learning Arduino.
 ## Projects
 
 - [Binary Counter](./binary-counter/)
+- [Dimmable LED](./dimmable-led/)
 
 ## Resources
 
 ### Learning
 
+- [Arduino Documentation](https://docs.arduino.cc/)
 - [Arduino Tutorials on YouTube](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP)
 
 ### Hardware
