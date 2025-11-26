@@ -7,6 +7,7 @@ My projects for learning Arduino.
 - [Binary Counter](./binary-counter/)
 - [Dimmable LED](./dimmable-led/)
 - [Mixing Colors](./mixing-colors/)
+- [Buzzer Tone](./buzzer-tone/)
 
 ## Resources
 
