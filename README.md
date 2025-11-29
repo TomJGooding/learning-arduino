@@ -8,6 +8,7 @@ My projects for learning Arduino.
 - [Dimmable LED](./dimmable-led/)
 - [Mixing Colors](./mixing-colors/)
 - [Buzzer Tone](./buzzer-tone/)
+- [Pushbutton Toggle](./pushbutton-toggle/)
 
 ## Resources
 
